@@ -1,0 +1,11 @@
+{
+  "pkg_name": "index.js",
+  "ver": "1.0.0",
+  "description": "",
+  "entry_point": "index.js",
+  "test_command": "",
+  "git_repository": "",
+  "keywords": "",
+  "author": "",
+  "license": "ISC"
+}
